@@ -1,0 +1,6 @@
+# 로컬 빌드 파일·민감 파일은 git에 올리지 않는다.
+# GitHub Pages에는 index.html(암호화본) + README만 노출되도록 한다.
+*
+!.gitignore
+!index.html
+!README.md
