@@ -8,7 +8,7 @@
 
 `https://<owner>.github.io/<repo>/` 로 접속 → 비밀번호 입력 → 대시보드.
 
-비번은 [@hongkiyoo](mailto:hongkiyoo@gmail.com) 에게 문의.
+비번은 관리자에게 직접 문의.
 
 ## 운영자용 (한국기 본인)
 
